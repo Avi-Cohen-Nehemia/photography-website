@@ -1,0 +1,38 @@
+@media screen and (min-width: 800px) {
+	.hamburger {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 800px){
+	.navbar-links-container .navbar-link {
+		display: none;
+	}
+
+	.navbar-links-container .socials-btn {
+		display: none;
+	}
+
+	.page-heading {
+		font-size: 3.5rem;
+	}
+
+	.brand {
+		font-size: 2rem;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.page-heading {
+		font-size: 3rem;
+	}
+
+	.brand {
+		font-size: 1.75rem;
+	}
+
+	.hamburger {
+		height: 2rem;
+		width: 2rem;
+	}
+}

@@ -1,0 +1,17 @@
+@font-face {
+	font-family: "Nunito";
+	font-weight: regular;
+	src: url("../fonts/Nunito/Nunito-Regular.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Nunito";
+	font-weight: bold;
+	src: url("../fonts/Nunito/Nunito-Bold.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Pacifico";
+	font-weight: regular;
+	src: url("../fonts/Pacifico/Pacifico-Regular.ttf") format("truetype");
+}

@@ -1,0 +1,15 @@
+.sidebar {
+
+}
+
+.sidebar .card-heading {
+	margin-bottom: 2rem;
+}
+
+.sidebar ul {
+	list-style-type: none;
+}
+
+.sidebar li {
+	margin-top: 1rem;
+}

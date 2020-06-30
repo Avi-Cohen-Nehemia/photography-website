@@ -1,0 +1,19 @@
+.main-navbar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 1rem;
+}
+
+.main-navbar .navbar-link {
+	margin-left: 3rem;
+}
+
+.main-navbar .socials-btn {
+	margin-left: 3rem;
+}
+
+.main-navbar .navbar-links-container {
+	display: flex;
+	align-items: center;
+}

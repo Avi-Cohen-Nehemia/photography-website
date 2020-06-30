@@ -1,0 +1,8 @@
+.main-footer {
+	display: flex;
+	justify-content: center;
+}
+
+.main-footer .socials-btn {
+	margin: 1rem;
+}
